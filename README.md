@@ -1,5 +1,3 @@
-### Hi there 👋
-
 👋 Hola!, soy Paula Rivarola!
 
 🔍 👀 Actualmente estoy en busqueda activa de trabajo
