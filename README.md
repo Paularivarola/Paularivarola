@@ -19,7 +19,7 @@
 </div>
 
 <h6>Puedes contactarte conmigo!: www.linkedin.com/in/paula-rivarola</h6>
-<details>
+
 <summary> ¡Te invito a mirar mis trabajos grupales e individuales!<a href="https://www.gifsanimados.org/cat-flechas-111.htm"> <a href="https://www.gifsanimados.org/cat-flechas-111.htm"><img src="https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0272.gif" border="0"  alt="flecha-imagen-animada-0272" /></a></summary>
 
 ####  ![LINKEDIN](https://i.postimg.cc/05wdgpSV/hamburguesa-con-queso-2.png) Quickly e-commerce
@@ -31,4 +31,7 @@
 >- WebApp: https://nutrimed.herokuapp.com/staff
 >- Repositorio - Web: https://github.com/Paularivarola/Portal-de-turnos
 
+   ####  ![LINKEDIN](https://i.postimg.cc/gJ3CLCf5/cruz-roja.png)  Congress Senator
+>- WebApp: congress-senator.netlify.app
+>- Repositorio - Web: 
 
