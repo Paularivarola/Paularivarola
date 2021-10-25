@@ -1,6 +1,6 @@
 <h1>👋 Hola!, soy Paula Rivarola!</h1> 
 
-<a href="https://www.gifsanimados.org/cat-flechas-111.htm"><img src="https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0206.gif" border="0" alt="flecha-imagen-animada-0206" /></a><h3>Desarrolladora Full Stack en MERN & Mobile Apps Jr.</h3>
+<h3>Desarrolladora Full Stack en MERN & Mobile Apps Jr.</h3>
 
 <h4 align="left">Lenguajes y heramientas:</h4>
 <div style="display: inline_block"><br>
