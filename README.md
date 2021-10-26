@@ -20,7 +20,7 @@
 
 <h6>Puedes contactarte conmigo!: www.linkedin.com/in/paula-rivarola</h6>
 
-<summary> ¡Te invito a mirar mis trabajos grupales e individuales!<a href="https://www.gifsanimados.org/cat-flechas-111.htm"> <a href="https://www.gifsanimados.org/cat-flechas-111.htm"><img src="https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0272.gif" border="0"  alt="flecha-imagen-animada-0272" /></a></summary>
+<summary> ¡Te invito a ver mis trabajos grupales e individuales!<a href="https://www.gifsanimados.org/cat-flechas-111.htm"> <a href="https://www.gifsanimados.org/cat-flechas-111.htm"><img src="https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0272.gif" border="0"  alt="flecha-imagen-animada-0272" /></a></summary>
 
 ####  ![LINKEDIN](https://i.postimg.cc/05wdgpSV/hamburguesa-con-queso-2.png) Quickly e-commerce
 >- WebApp: https://quickly-food.herokuapp.com/
@@ -31,7 +31,13 @@
 >- WebApp: https://nutrimed.herokuapp.com/staff
 >- Repositorio - Web: https://github.com/Paularivarola/Portal-de-turnos
 
-   ####  ![LINKEDIN](https://i.postimg.cc/gJ3CLCf5/cruz-roja.png)  Congress Senator
+   ####  ![LINKEDIN](https://i.postimg.cc/mkdYGcHp/parliament.png)  TGIF
 >- WebApp: congress-senator.netlify.app
->- Repositorio - Web: 
+>- Repositorio - Web: https://github.com/Paularivarola/Senators
 
+  <div style="display: inline_block"><br>
+    <img align="center"src="https://i.postimg.cc/xTWFcC8N/hockey.png" alt="git" width="24" /> Hockey League<br>
+<summary> Repositorio - Web: https://github.com/Paularivarola/Hockey-League-mh
+  </div>
+</summary>
+  
