@@ -32,12 +32,13 @@
 >- Repositorio - Web: https://github.com/Paularivarola/Portal-de-turnos
 
    ####  ![LINKEDIN](https://i.postimg.cc/mkdYGcHp/parliament.png)  TGIF
->- WebApp: congress-senator.netlify.app
+>- WebApp: https://congress-senator.netlify.app/
 >- Repositorio - Web: https://github.com/Paularivarola/Senators
+  
+  #### ![LINKEDIN](https://i.postimg.cc/xTWFcC8N/hockey.png) Hockey League
+>- WebApp: https://hockey-league-mh.herokuapp.com/rules
+>- Repositorio - Web: https://github.com/Paularivarola/Hockey-League-mh
 
-  <div style="display: inline_block"><br>
-    <img align="center"src="https://i.postimg.cc/xTWFcC8N/hockey.png" alt="git" width="24" /> Hockey League<br>
-<summary> Repositorio - Web: https://github.com/Paularivarola/Hockey-League-mh
-  </div>
-</summary>
+
+
   
