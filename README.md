@@ -36,7 +36,7 @@
 >- Repositorio - Web: https://github.com/Paularivarola/Senators
   
   #### ![LINKEDIN](https://i.postimg.cc/xTWFcC8N/hockey.png) Hockey League
->- WebApp: https://hockey-league-mh.herokuapp.com/rules
+>- WebApp: https://hockey-league-mh.herokuapp.com/
 >- Repositorio - Web: https://github.com/Paularivarola/Hockey-League-mh
 
 
