@@ -20,10 +20,15 @@
 
 <h6>Puedes contactarte conmigo!: www.linkedin.com/in/paula-rivarola</h6>
 
+![Diseño sin título](https://user-images.githubusercontent.com/79754043/141010431-e0ae8b27-f9d7-4484-874e-1c2e7c6f3f12.png)
+
+
 
 <summary> ¡Te invito a ver mis trabajos grupales e individuales!<a href="https://www.gifsanimados.org/cat-flechas-111.htm"> <a href="https://www.gifsanimados.org/cat-flechas-111.htm"><img src="https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0272.gif" border="0"  alt="flecha-imagen-animada-0272" /></a></summary>
 
 ####  ![LINKEDIN](https://i.postimg.cc/05wdgpSV/hamburguesa-con-queso-2.png) Quickly e-commerce
+
+5wdgpSV/hamburguesa-con-queso-2.png) Quickly e-commerce
 >- WebApp: https://quickly-food.herokuapp.com/
 >- Repositorio - Web: https://github.com/Paularivarola/e-comerce-quickly
 >- Repositorio - Mobile: https://github.com/Paularivarola/e-commerce-native
@@ -39,7 +44,3 @@
   #### ![LINKEDIN](https://i.postimg.cc/xTWFcC8N/hockey.png) Hockey League
 >- WebApp: https://hockey-league-mh.herokuapp.com/
 >- Repositorio - Web: https://github.com/Paularivarola/Hockey-League-mh
-
-
-
-  
