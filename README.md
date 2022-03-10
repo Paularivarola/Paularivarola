@@ -42,4 +42,4 @@
   
   #### ![LINKEDIN](https://i.postimg.cc/xTWFcC8N/hockey.png) Hockey League
 >- WebApp: https://hockey-league-mh.herokuapp.com/
->- Repositorio - Web: https://github.com/Paularivarola/Hockey-League-mh
+  >- Repositorio - Web: <a target="_blank">https://github.com/Paularivarola/Hockey-League-mh</a>
