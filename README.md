@@ -28,12 +28,12 @@
 
 ####  ![LINKEDIN](https://i.postimg.cc/05wdgpSV/hamburguesa-con-queso-2.png) Quickly e-commerce
 
-#### >- WebApp: https://quickly-food.herokuapp.com/
+
 >- Repositorio - Web: https://github.com/Paularivarola/e-comerce-quickly
 >- Repositorio - Mobile: https://github.com/Paularivarola/e-commerce-native
 
  ####  ![LINKEDIN](https://i.postimg.cc/gJ3CLCf5/cruz-roja.png)  Portal de Turnos Nutrimed
->- WebApp: https://nutrimed.herokuapp.com/staff
+
 >- Repositorio - Web: https://github.com/Paularivarola/Portal-de-turnos
 
    ####  ![LINKEDIN](https://i.postimg.cc/mkdYGcHp/parliament.png)  TGIF
@@ -41,5 +41,4 @@
 >- Repositorio - Web: https://github.com/Paularivarola/Senators
   
   #### ![LINKEDIN](https://i.postimg.cc/xTWFcC8N/hockey.png) Hockey League
->- WebApp: https://hockey-league-mh.herokuapp.com/
   >- Repositorio - Web: <a target="_blank">https://github.com/Paularivarola/Hockey-League-mh</a>
