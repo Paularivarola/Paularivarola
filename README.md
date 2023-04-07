@@ -1,6 +1,6 @@
 <h1>👋 Hola!, soy Paula Rivarola!</h1> 
 
-<h3>Desarrolladora Full Stack en MERN & Mobile Apps Jr.</h3>
+<h3>Desarrolladora Full Stack en MERN & Mobile Apps</h3>
 
 <h4 align="left">Lenguajes y heramientas:</h4>
 <div style="display: inline_block"><br>
