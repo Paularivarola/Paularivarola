@@ -48,6 +48,7 @@ Aplicación web interactiva construida con React, Redux y Tailwind.
 <!-- GIF debajo del banner -->
 <p align="center">
   <img src="https://i.postimg.cc/25CQFCmh/Grabacio-n-de-pantalla-2025-07-31-a-la-s-00-59-35-1.gif" width="600" alt="Demo BeerApp" />
+  ![UI interface](https://i.postimg.cc/k5fQpGdQ/image.png)
 </p>
 📌 **Quickly e-commerce**  
 🖥️ [Repositorio Web](https://github.com/Paularivarola/e-comerce-quickly)  
