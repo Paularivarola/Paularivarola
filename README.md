@@ -53,7 +53,8 @@ Aplicación web interactiva construida con React, Redux y Tailwind.
 🔗 [Repositorio](https://github.com/Paularivarola/Portal-de-turnos)
 
 📌 **[TGIF - Congress App](https://congress-senator.netlify.app/)**  
-🔗 [Repositorio](https://github.com/Paularivarola/Senators)
+[🔗] Ver app: https://congress-senator.netlify.app/
+[🔗](https://congress-senator.netlify.app/) [Repositorio](https://github.com/Paularivarola/Senators)
 
 📌 **Hockey League**  
 🔗 [Repositorio](https://github.com/Paularivarola/Hockey-League-mh)
