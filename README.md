@@ -1,7 +1,7 @@
 <h1 align="center">✨ ¡Hola, soy Paula Rivarola! ✨</h1>  
 
 <p align="center">
-  <strong>Desarrolladora Full Stack MERN & Mobile Apps</strong><br/>
+  <strong>Desarrolladora React & React Native</strong><br/>
   <em>Apasionada por crear productos digitales con foco en performance, accesibilidad y arquitectura limpia</em>
 </p>
 
