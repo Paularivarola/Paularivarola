@@ -42,3 +42,7 @@
   
   #### ![LINKEDIN](https://i.postimg.cc/xTWFcC8N/hockey.png) Hockey League
   >- Repositorio - Web: <a target="_blank">https://github.com/Paularivarola/Hockey-League-mh</a>
+
+  #### ![LINKEDIN](https://i.postimg.cc/xTWFcC8N/hockey.png) BeerApp
+  >- Repositorio - Web: <a target="_blank">https://github.com/Paularivarola/challenge-cometa</a>
+
