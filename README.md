@@ -15,6 +15,13 @@
 
 ---
 
+<div width="90%" align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=PaulaRivarola&show_icons=true&include_all_commits=true&theme=monokai" alt="PaulaRivarola" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaRivarola&layout=compact&theme=monokai&langs_count=4" alt="PaulaRivarola" />
+</div>
+
+---
+
 ### 🛠️ Lenguajes y Herramientas
 
 <p align="center">
