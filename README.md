@@ -45,6 +45,14 @@
 Aplicación web interactiva construida con React, Redux y Tailwind.  
 🔗 [Repositorio](https://github.com/Paularivarola/challenge-cometa)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79754043/141010431-e0ae8b27-f9d7-4484-874e-1c2e7c6f3f12.png" width="250" alt="Banner"/>
+</p>
+
+<!-- GIF debajo del banner -->
+<p align="center">
+  <img src="https://i.postimg.cc/HkvY321z/Grabacio-n-de-pantalla-2025-07-31-a-la-s-00-59-35.gif" width="600" alt="Demo BeerApp" />
+</p>
 📌 **Quickly e-commerce**  
 🖥️ [Repositorio Web](https://github.com/Paularivarola/e-comerce-quickly)  
 📱 [Repositorio Mobile](https://github.com/Paularivarola/e-commerce-native)
