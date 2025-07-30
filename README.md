@@ -26,6 +26,10 @@
 
 <summary> ¡Te invito a ver mis trabajos grupales e individuales!<a href="https://www.gifsanimados.org/cat-flechas-111.htm"> <a href="https://www.gifsanimados.org/cat-flechas-111.htm"><img src="https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0272.gif" border="0"  alt="flecha-imagen-animada-0272" /></a></summary>
 
+  #### ![LINKEDIN](https://i.postimg.cc/xTWFcC8N/hockey.png) BeerApp
+>- WebApp: https://challenge-cometa-bnbr.vercel.app/
+  >- Repositorio - Web: <a target="_blank">https://github.com/Paularivarola/challenge-cometa</a>
+
 ####  ![LINKEDIN](https://i.postimg.cc/05wdgpSV/hamburguesa-con-queso-2.png) Quickly e-commerce
 
 
@@ -42,7 +46,4 @@
   
   #### ![LINKEDIN](https://i.postimg.cc/xTWFcC8N/hockey.png) Hockey League
   >- Repositorio - Web: <a target="_blank">https://github.com/Paularivarola/Hockey-League-mh</a>
-
-  #### ![LINKEDIN](https://i.postimg.cc/xTWFcC8N/hockey.png) BeerApp
-  >- Repositorio - Web: <a target="_blank">https://github.com/Paularivarola/challenge-cometa</a>
 
