@@ -41,21 +41,22 @@
 
 ### 🌟 Proyectos Destacados
 
-📌 **[BeerApp](https://challenge-cometa-bnbr.vercel.app/)**  
-Aplicación web interactiva construida con React, Redux y Tailwind.  
-🔗 [Repositorio](https://github.com/Paularivarola/challenge-cometa)
-
+📌 **BeerApp**  
+Aplicación web interactiva construida con **React, Redux y Tailwind CSS**.  
+🌐 [Ver la web](https://challenge-cometa-bnbr.vercel.app/)  
+💻 [Repositorio](https://github.com/Paularivarola/challenge-cometa)
 
 📌 **Quickly e-commerce**  
-🖥️ [Repositorio Web](https://github.com/Paularivarola/e-comerce-quickly)  
-📱 [Repositorio Mobile](https://github.com/Paularivarola/e-commerce-native)
+- 🖥️ [Repositorio Web](https://github.com/Paularivarola/e-comerce-quickly)  
+- 📱 [Repositorio Mobile](https://github.com/Paularivarola/e-commerce-native)
 
 📌 **Portal de Turnos Nutrimed**  
 🔗 [Repositorio](https://github.com/Paularivarola/Portal-de-turnos)
 
-📌 **[TGIF - Congress App](https://congress-senator.netlify.app/)**  
-[🔗] Ver app: https://congress-senator.netlify.app/
-[🔗](https://congress-senator.netlify.app/) [Repositorio](https://github.com/Paularivarola/Senators)
+📌 **TGIF - Congress App**  
+Aplicación web para visualizar datos de congresistas.  
+🌐 [Ver la web](https://congress-senator.netlify.app/)  
+🔗 [Repositorio](https://github.com/Paularivarola/Senators)
 
 📌 **Hockey League**  
 🔗 [Repositorio](https://github.com/Paularivarola/Hockey-League-mh)
