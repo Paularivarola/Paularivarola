@@ -32,7 +32,7 @@
   <img 
     src="https://i.postimg.cc/43PrmydV/Captura-de-pantalla-2025-09-19-a-la-s-19-12-13.png"
     alt="Lenguajes y Herramientas"
-    style="width:160px; height:auto; display:block; margin:0 auto;" 
+    style="width:260px; height:auto; display:block; margin:0 auto;" 
   />
 </div>
 
@@ -54,55 +54,86 @@
   <img 
     src="https://i.postimg.cc/kg91KCLc/Captura-de-pantalla-2025-09-19-a-la-s-19-05-30.png"
     alt="Proyectos Destacados"
-    style="width:260px; height:auto; display:block; margin:0 auto;" 
+    style="width:230px; height:auto; display:block; margin:0 auto;" 
   />
 </div>
 
+<!-- Bloque 2 columnas: texto izquierda / imagen derecha -->
+<div align="start">
+
+<table>
+  <tr>
+    <td valign="start" width="50%">
+      <h3 align="left">📌 BeerApp</h3>
+      <p align="left">
+        Aplicación web interactiva construida con <b>React</b>, <b>Redux</b> y <b>Tailwind CSS</b>.
+      </p>
+      <img src="https://i.postimg.cc/s2ywtnvj/Grabacio-n-de-pantalla-2025-09-19-a-la-s-16-57-39.gif" width="520" alt="Animación BeerApp"/>
+      <p align="left">
+        🌐 <a href="https://challenge-cometa-bnbr.vercel.app/">www.beerApp.com</a><br/>
+        💻 <a href="https://github.com/Paularivarola/challenge-cometa">Repositorio</a>
+      </p>
+    </td>
+     <td valign="start" width="50%">
+      <h3 align="left">📌 Quickly e-commerce </h3>
+      <p align="left">
+        Aplicación web interactiva construida con <b>React</b>, <b>Redux</b>, <b>CSS</b>, <b>Node</b>, <b>Express</b> <b>MongoDB</b>, <b>Mongoose</b> y <b>Socket</b>.
+      </p>
+      <img src="https://media.giphy.com/media/ISHLh0zai8op6ISgqF/giphy-downsized-large.gif" width="520" alt="Animación BeerApp"/>
+      <p align="left">
+        🌐 <a href="https://github.com/Paularivarola/e-comerce-quickly">Repositorio Web</a><br/>
+        💻 <a href="https://github.com/Paularivarola/e-commerce-native">Repositorio Mobile</a>
+      </p>
+    </td>
+  </tr>
 
 
-<!-- Texto izquierda / Imagen derecha, centrados y con “espacio” entre columnas -->
-<div align="center">
-
-  <!-- Columna izquierda -->
-  <div style="display:inline-block; vertical-align:middle; width:46%; min-width:280px; text-align:left;">
-    <h3>BeerApp 🍺</h3>
-    <p>
-      Aplicación web interactiva construida con <b>React</b>, <b>Redux</b> y <b>Tailwind CSS</b>.
-    </p>
-    <p>
-      🌐 <a href="https://challenge-cometa-bnbr.vercel.app/">Ver la web</a><br/>
-      💻 <a href="https://github.com/Paularivarola/challenge-cometa">Repositorio</a>
-    </p>
-  </div>
-
-  <!-- Columna derecha -->
-  <div style="display:inline-block; vertical-align:middle; width:46%; min-width:280px; text-align:center;">
-    <img src="https://i.postimg.cc/DzT2Jbwj/Grabacio-n-de-pantalla-2025-09-19-a-la-s-18-42-23.gif"
-         alt="Animación BeerApp" width="100%" />
-  </div>
-
+   <tr>
+    <td valign="start" width="50%">
+      <h3 align="left">📌 Portal de Turnos Nutrimed</h3>
+      <p align="left">
+        Aplicación web interactiva construida con <b>React</b>, <b>Redux</b> y <b>React
+Node.js,
+Express,
+MongoDB,
+Redux,
+Mongoose,
+Passport,
+Joi,
+Bcrypt,
+Json Web Token (JWT),
+Socket </b> y
+<b>Nodemailer</b>.
+      </p>
+      <img src="https://i.postimg.cc/ht8nLg1P/nutrimed-herokuapp-com-2021-10-27-04-24-59.png" width="520" alt="Animación BeerApp"/>
+      <p align="left">
+        💻 <a href="https://github.com/Paularivarola/Portal-de-turnos">Repositorio</a>
+      </p>
+    </td>
+     <td valign="start" width="50%">
+      <h3 align="left">📌 TGIF - Congress App </h3>
+      <p align="left">
+        Aplicación web para visualizar datos de congresistas. 
+      </p>
+      <img src="https://i.postimg.cc/Rhg8XVyK/Captura-de-pantalla-2025-09-19-a-la-s-19-53-14.png" width="520" alt="Animación BeerApp"/>
+      <p align="left">
+        🌐 <a href="https://congress-senator.netlify.app/">www.congress.com</a><br/>
+        💻 <a href="https://github.com/Paularivarola/Senators">Ver Repositorio</a>
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
-
-
-
-📌 **Quickly e-commerce**  
-- 🖥️ [Repositorio Web](https://github.com/Paularivarola/e-comerce-quickly)  
-- 📱 [Repositorio Mobile](https://github.com/Paularivarola/e-commerce-native)
-
-📌 **Portal de Turnos Nutrimed**  
-🔗 [Repositorio](https://github.com/Paularivarola/Portal-de-turnos)
-
-📌 **TGIF - Congress App**  
-Aplicación web para visualizar datos de congresistas.  
-🌐 [Ver la web](https://congress-senator.netlify.app/)  
-🔗 [Repositorio](https://github.com/Paularivarola/Senators)
-
-📌 **Hockey League**  
-🔗 [Repositorio](https://github.com/Paularivarola/Hockey-League-mh)
 
 ---
 
-### 📫 ¡Conectemos!
+<div style="width:100%; text-align:center;">
+  <img 
+    src="https://i.postimg.cc/T1ts343x/Captura-de-pantalla-2025-09-19-a-la-s-19-18-09.png"
+    alt="Puedes contactarme"
+    style="width:260px; height:auto; display:block; margin:0 auto;" 
+  />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paula-rivarola">
