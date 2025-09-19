@@ -1,6 +1,6 @@
 <div style="width:50%; text-align:center;">
   <img 
-    src="https://i.postimg.cc/tRNywgDW/Captura-de-pantalla-2025-09-19-a-la-s-18-55-31.png"
+    src="https://i.postimg.cc/rmpCTsxs/Captura-de-pantalla-2025-09-19-a-la-s-18-57-59.png"
     alt="Animación BeerApp"
     style="width:100%; height:auto; display:block; margin:0 auto;" 
   />
