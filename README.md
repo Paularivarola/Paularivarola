@@ -1,7 +1,7 @@
 <div style="width:50%; text-align:center;">
   <img 
-    src="https://i.postimg.cc/rmpCTsxs/Captura-de-pantalla-2025-09-19-a-la-s-18-57-59.png"
-    alt="Animación BeerApp"
+    src="https://i.postimg.cc/pr8NXt6F/Grabaciondepantalla2025-09-19alas18-42-23-ezgif-com-video-to-gif-converter.gif"
+    alt="Hola soy Paula"
     style="width:100%; height:auto; display:block; margin:0 auto;" 
   />
 </div>
