@@ -1,6 +1,6 @@
 <div style="width:50%; text-align:center;">
   <img 
-    src="https://i.postimg.cc/pr8NXt6F/Grabaciondepantalla2025-09-19alas18-42-23-ezgif-com-video-to-gif-converter.gif"
+    src="https://i.postimg.cc/h4bvrWjj/Grabacio-n-de-pantalla-2025-09-19-a-la-s-20-16-26.gif"
     alt="Hola soy Paula"
     style="width:100%; height:auto; display:block; margin:0 auto;" 
   />
