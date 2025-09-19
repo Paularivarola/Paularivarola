@@ -8,7 +8,13 @@
 
 ---
 
-### 🚀 Sobre mí
+<div style="width:100%; text-align:center;">
+  <img 
+    src="https://i.postimg.cc/L6yR0yRj/Captura-de-pantalla-2025-09-19-a-la-s-19-00-49.png"
+    alt="Animación BeerApp"
+    style="width:160px; height:auto; display:block; margin:0 auto;" 
+  />
+</div>
 
 💡 Me encanta crear interfaces modernas, optimizadas y fáciles de usar.  
 📱 Tengo experiencia tanto en **desarrollo web** como **aplicaciones móviles**.  
@@ -22,8 +28,13 @@
 </div>
 
 ---
-
-### 🛠️ Lenguajes y Herramientas
+<div style="width:100%; text-align:center;">
+  <img 
+    src="https://i.postimg.cc/43PrmydV/Captura-de-pantalla-2025-09-19-a-la-s-19-12-13.png"
+    alt="Lenguajes y Herramientas"
+    style="width:160px; height:auto; display:block; margin:0 auto;" 
+  />
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript"/>
@@ -39,8 +50,13 @@
 </p>
 
 ---
-
-# 🌟 Proyectos Destacados
+<div style="width:100%; text-align:center;">
+  <img 
+    src="https://i.postimg.cc/kg91KCLc/Captura-de-pantalla-2025-09-19-a-la-s-19-05-30.png"
+    alt="Proyectos Destacados"
+    style="width:260px; height:auto; display:block; margin:0 auto;" 
+  />
+</div>
 
 
 
