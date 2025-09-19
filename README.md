@@ -1,9 +1,10 @@
-<h1 align="center">✨ ¡Hola, soy Paula Rivarola! ✨</h1>  
-
-<p align="center">
-  <strong>Desarrolladora React & React Native</strong><br/>
-  <em>Apasionada por crear productos digitales con foco en performance, accesibilidad y arquitectura limpia</em>
-</p>
+<div style="width:100%; text-align:center;">
+  <img 
+    src="https://i.postimg.cc/0jskmMn2/Captura-de-pantalla-2025-09-19-a-la-s-18-53-11.png"
+    alt="Animación BeerApp"
+    style="width:100%; height:auto; display:block; margin:0 auto;" 
+  />
+</div>
 
 ---
 
@@ -39,12 +40,34 @@
 
 ---
 
-### 🌟 Proyectos Destacados
+# 🌟 Proyectos Destacados
 
-📌 **BeerApp**  
-Aplicación web interactiva construida con **React, Redux y Tailwind CSS**.  
-🌐 [Ver la web](https://challenge-cometa-bnbr.vercel.app/)  
-💻 [Repositorio](https://github.com/Paularivarola/challenge-cometa)
+
+
+<!-- Texto izquierda / Imagen derecha, centrados y con “espacio” entre columnas -->
+<div align="center">
+
+  <!-- Columna izquierda -->
+  <div style="display:inline-block; vertical-align:middle; width:46%; min-width:280px; text-align:left;">
+    <h3>BeerApp 🍺</h3>
+    <p>
+      Aplicación web interactiva construida con <b>React</b>, <b>Redux</b> y <b>Tailwind CSS</b>.
+    </p>
+    <p>
+      🌐 <a href="https://challenge-cometa-bnbr.vercel.app/">Ver la web</a><br/>
+      💻 <a href="https://github.com/Paularivarola/challenge-cometa">Repositorio</a>
+    </p>
+  </div>
+
+  <!-- Columna derecha -->
+  <div style="display:inline-block; vertical-align:middle; width:46%; min-width:280px; text-align:center;">
+    <img src="https://i.postimg.cc/DzT2Jbwj/Grabacio-n-de-pantalla-2025-09-19-a-la-s-18-42-23.gif"
+         alt="Animación BeerApp" width="100%" />
+  </div>
+
+</div>
+
+
 
 📌 **Quickly e-commerce**  
 - 🖥️ [Repositorio Web](https://github.com/Paularivarola/e-comerce-quickly)  
